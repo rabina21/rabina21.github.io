@@ -1,0 +1,19 @@
+body{
+   background-color: silver;
+    
+    height: 100%;
+    width: 100%;
+}
+img{
+    border-radius: 200px;
+   border-color: snow;
+   border: 2px;
+}
+.first{
+    
+    display: inline-block;
+}
+.second{
+    display: inline-block;
+    margin-left: 200px;
+}
